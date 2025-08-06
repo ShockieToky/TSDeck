@@ -163,6 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 ShockieToky - [https://github.com/ShockieToky](https://github.com/ShockieToky)
+
 Yohan-Frmt - [https://github.com/Yohan-Frmt](https://github.com/Yohan-Frmt)
 
 Project Link: <https://github.com/ShockieToky/TSDeck>
